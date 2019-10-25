@@ -1,165 +1,201 @@
 #EXTM3U
-#EXTINF:-1,DE_ORF_1_HD
-http://w.bs-share.com:8000/bs/524470739/1464
-#EXTINF:-1,DE_ORF_2_HD
-http://w.bs-share.com:8000/bs/524470739/1465
-#EXTINF:-1,DE_RTL_HD
-http://w.bs-share.com:8000/bs/524470739/274
-#EXTINF:-1,DE_RTL2_HD
-http://w.bs-share.com:8000/bs/524470739/1469
-#EXTINF:-1,DE_Vox_HD
-http://w.bs-share.com:8000/bs/524470739/269
-#EXTINF:-1,DE_WDR_HD
-http://w.bs-share.com:8000/bs/524470739/1468
-#EXTINF:-1,DE_ZDF_HD
-http://w.bs-share.com:8000/bs/524470739/1467
-#EXTINF:-1,DE_A&E
-http://w.bs-share.com:8000/bs/524470739/3972
-#EXTINF:-1,DE_ARD_HD
-http://w.bs-share.com:8000/bs/524470739/1717
-#EXTINF:-1,DE_NDR_HD
-http://w.bs-share.com:8000/bs/524470739/1718
-#EXTINF:-1,DE_Boomerang
-http://w.bs-share.com:8000/bs/524470739/3786
-#EXTINF:-1,DE_CARTOON_NETWORK
-http://w.bs-share.com:8000/bs/524470739/3971
-#EXTINF:-1,DE_DAS_ERSTE_HD
-http://w.bs-share.com:8000/bs/524470739/1466
-#EXTINF:-1,DE_DE_13TH_STREET_HD
-http://w.bs-share.com:8000/bs/524470739/1427
-#EXTINF:-1,DE_Disney_Cinemagic_HD
-http://w.bs-share.com:8000/bs/524470739/1436
-#EXTINF:-1,DE_DMAX_HD
-http://w.bs-share.com:8000/bs/524470739/1475
-#EXTINF:-1,DE_E!_ENTERTAINMENT
-http://w.bs-share.com:8000/bs/524470739/3973
-#EXTINF:-1,DE_EUORO_SPORT_1HD
-http://w.bs-share.com:8000/bs/524470739/1463
-#EXTINF:-1,DE_EUORO_SPORT_2_HD
-http://w.bs-share.com:8000/bs/524470739/1462
-#EXTINF:-1,DE_Euronews
-http://w.bs-share.com:8000/bs/524470739/251
-#EXTINF:-1,DE_EUROSPORT_2_HD
-http://w.bs-share.com:8000/bs/524470739/3967
-#EXTINF:-1,DE_GoldStarTV
-http://w.bs-share.com:8000/bs/524470739/276
-#EXTINF:-1,DE_HEIMAT_KNAL
-http://w.bs-share.com:8000/bs/524470739/1442
-#EXTINF:-1,DE_JUKEBOX
-http://w.bs-share.com:8000/bs/524470739/3970
-#EXTINF:-1,DE_KABEL_1_HD
-http://w.bs-share.com:8000/bs/524470739/1719
-#EXTINF:-1,DE_KIKA_HD
-http://w.bs-share.com:8000/bs/524470739/1474
-#EXTINF:-1,DE_MOTORVISION
-http://w.bs-share.com:8000/bs/524470739/3969
-#EXTINF:-1,DE_N-TV_HD
-http://w.bs-share.com:8000/bs/524470739/1473
-#EXTINF:-1,DE_N24_HD
-http://w.bs-share.com:8000/bs/524470739/1472
-#EXTINF:-1,DE_NatGeoWild
-http://w.bs-share.com:8000/bs/524470739/278
-#EXTINF:-1,DE_National-Geographic-Channel-DE
-http://w.bs-share.com:8000/bs/524470739/277
-#EXTINF:-1,DE_PRO_7_HD
-http://w.bs-share.com:8000/bs/524470739/1471
-#EXTINF:-1,DE_PRO_7_MAX_HD
-http://w.bs-share.com:8000/bs/524470739/1470
-#EXTINF:-1,DE_Pro_Sieben_HD
-http://w.bs-share.com:8000/bs/524470739/275
-#EXTINF:-1,DE_RTL_CRIME_HD
-http://w.bs-share.com:8000/bs/524470739/1439
-#EXTINF:-1,DE_RTL_Passion
-http://w.bs-share.com:8000/bs/524470739/272
-#EXTINF:-1,DE_RTL-NITRO
-http://w.bs-share.com:8000/bs/524470739/273
-#EXTINF:-1,DE_Sat_1_HD
-http://w.bs-share.com:8000/bs/524470739/271
-#EXTINF:-1,DE_Sky_Action_HD
-http://w.bs-share.com:8000/bs/524470739/263
-#EXTINF:-1,DE_SKY_ARTS
-http://w.bs-share.com:8000/bs/524470739/3977
-#EXTINF:-1,DE_Sky_Atlantic_HD
-http://w.bs-share.com:8000/bs/524470739/262
-#EXTINF:-1,DE_SKY_AXN
-http://w.bs-share.com:8000/bs/524470739/1818
-#EXTINF:-1,DE_SKY_CINEMA_1_HD
-http://w.bs-share.com:8000/bs/524470739/1721
-#EXTINF:-1,DE_SKY_CINEMA_24_HD
-http://w.bs-share.com:8000/bs/524470739/1720
-#EXTINF:-1,DE_Sky_Cinema_HD
-http://w.bs-share.com:8000/bs/524470739/1428
-#EXTINF:-1,DE_SKY_CINEMA_HITS
-http://w.bs-share.com:8000/bs/524470739/3978
-#EXTINF:-1,DE_Sky_Comedy_HD
-http://w.bs-share.com:8000/bs/524470739/260
-#EXTINF:-1,DE_sky_Discovery_HD
-http://w.bs-share.com:8000/bs/524470739/1434
-#EXTINF:-1,DE_SKY_DISNEY_JUNIOR
-http://w.bs-share.com:8000/bs/524470739/1437
-#EXTINF:-1,DE_Sky_Emotion_HD
-http://w.bs-share.com:8000/bs/524470739/259
-#EXTINF:-1,DE_SKY_FOX_HD
-http://w.bs-share.com:8000/bs/524470739/1430
-#EXTINF:-1,DE_SKY_History_HD
-http://w.bs-share.com:8000/bs/524470739/1435
-#EXTINF:-1,DE_Sky_Hits_HD
-http://w.bs-share.com:8000/bs/524470739/1429
-#EXTINF:-1,DE_Sky_Krimi
-http://w.bs-share.com:8000/bs/524470739/265
-#EXTINF:-1,DE_SKY_MGM_HD
-http://w.bs-share.com:8000/bs/524470739/1431
-#EXTINF:-1,DE_Sky_Nostalgie
-http://w.bs-share.com:8000/bs/524470739/264
-#EXTINF:-1,DE_SKY_RTL_PASSION
-http://w.bs-share.com:8000/bs/524470739/1441
-#EXTINF:-1,DE_SKY_SPIGEL_GESCHISCHTE
-http://w.bs-share.com:8000/bs/524470739/1443
-#EXTINF:-1,DE_SKY_SPORT_AUSTRIA_HD
-http://w.bs-share.com:8000/bs/524470739/3968
-#EXTINF:-1,DE_Sky_Sport_News_hd
-http://w.bs-share.com:8000/bs/524470739/1444
-#EXTINF:-1,DE_SKY_SYFY_HD
-http://w.bs-share.com:8000/bs/524470739/1432
-#EXTINF:-1,DE_SKY_TNT_HD
-http://w.bs-share.com:8000/bs/524470739/1440
-#EXTINF:-1,DE_SKY_TNT_HD_SERIE
-http://w.bs-share.com:8000/bs/524470739/1438
-#EXTINF:-1,DE_Super_Rtl
-http://w.bs-share.com:8000/bs/524470739/270
-#EXTINF:-1,DE_TNT_COMEDY
-http://w.bs-share.com:8000/bs/524470739/3976
-#EXTINF:-1,DE_UNIVERSAL
-http://w.bs-share.com:8000/bs/524470739/3974
-#EXTINF:-1,DE_Sky_Sport_1_HD
-http://w.bs-share.com:8000/bs/524470739/258
-#EXTINF:-1,DE_SKY_SPORTS_2_HD
-http://w.bs-share.com:8000/bs/524470739/1455
-#EXTINF:-1,DE_Sky_Sport_3_HD
-http://w.bs-share.com:8000/bs/524470739/1456
-#EXTINF:-1,DE_Sky_Bundasliga_HD
-http://w.bs-share.com:8000/bs/524470739/261
-#EXTINF:-1,DE_SKY_BUNDESLIGA_1_HD
-http://w.bs-share.com:8000/bs/524470739/1445
-#EXTINF:-1,DE_SKY_BUNDES_LIGA_2_HD
-http://w.bs-share.com:8000/bs/524470739/1446
-#EXTINF:-1,DE_Sky_Bundesliga_3_HD
-http://w.bs-share.com:8000/bs/524470739/1447
-#EXTINF:-1,DE_Sky_Bundesliga_4_HD
-http://w.bs-share.com:8000/bs/524470739/1448
-#EXTINF:-1,DE_Sky_Select_1_HD
-http://w.bs-share.com:8000/bs/524470739/1602
-#EXTINF:-1,DE_Sky_Select_2_HD
-http://w.bs-share.com:8000/bs/524470739/1601
-#EXTINF:-1,DE_Sky_Select_3_HD
-http://w.bs-share.com:8000/bs/524470739/1600
-#EXTINF:-1,DE_Sky_Select_4_HD
-http://w.bs-share.com:8000/bs/524470739/1599
-#EXTINF:-1,DE_Sky_Select_5_HD
-http://w.bs-share.com:8000/bs/524470739/1598
-#EXTINF:-1,DE_Sky_Select_6_HD
-http://w.bs-share.com:8000/bs/524470739/1597
-#EXTINF:-1,DE_Sky_Select_HD_7
-http://w.bs-share.com:8000/bs/524470739/1815
-#EXTINF:-1,DE_Sky_Select_HD_8
-http://w.bs-share.com:8000/bs/524470739/1814
+#EXTINF:-1,DE: Zdf Neo/zdfvision
+http://live.faucontv.com:8000/live/arbi1/arbi2/2534.ts
+#EXTINF:-1,DE: Zdf Info
+http://live.faucontv.com:8000/live/arbi1/arbi2/2550.ts
+#EXTINF:-1,DE: Zdf
+http://live.faucontv.com:8000/live/arbi1/arbi2/2525.ts
+#EXTINF:-1,DE: Wdrhd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2526.ts
+#EXTINF:-1,DE: Wdr
+http://live.faucontv.com:8000/live/arbi1/arbi2/2527.ts
+#EXTINF:-1,DE: Vox Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2528.ts
+#EXTINF:-1,DE: Tnt Serie Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2582.ts
+#EXTINF:-1,DE: Tlc
+http://live.faucontv.com:8000/live/arbi1/arbi2/2578.ts
+#EXTINF:-1,DE: Syfy
+http://live.faucontv.com:8000/live/arbi1/arbi2/2585.ts
+#EXTINF:-1,DE: Super Rtl
+http://live.faucontv.com:8000/live/arbi1/arbi2/2529.ts
+#EXTINF:-1,DE: Srf1
+http://live.faucontv.com:8000/live/arbi1/arbi2/2530.ts
+#EXTINF:-1,DE: Sport1 Us Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2531.ts
+#EXTINF:-1,DE: Sport  1 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2532.ts
+#EXTINF:-1,DE: Skysport Austria
+http://live.faucontv.com:8000/live/arbi1/arbi2/2533.ts
+#EXTINF:-1,DE: Skysport 9
+http://live.faucontv.com:8000/live/arbi1/arbi2/2624.ts
+#EXTINF:-1,DE: Skysport 8
+http://live.faucontv.com:8000/live/arbi1/arbi2/2623.ts
+#EXTINF:-1,DE: Skysport 7
+http://live.faucontv.com:8000/live/arbi1/arbi2/2622.ts
+#EXTINF:-1,DE: Skysport 6
+http://live.faucontv.com:8000/live/arbi1/arbi2/2621.ts
+#EXTINF:-1,DE: Skysport 5
+http://live.faucontv.com:8000/live/arbi1/arbi2/2620.ts
+#EXTINF:-1,DE: Skysport 4
+http://live.faucontv.com:8000/live/arbi1/arbi2/2619.ts
+#EXTINF:-1,DE: Skysport 3
+http://live.faucontv.com:8000/live/arbi1/arbi2/2618.ts
+#EXTINF:-1,DE: Skysport 10
+http://live.faucontv.com:8000/live/arbi1/arbi2/2617.ts
+#EXTINF:-1,DE: Skycinema24
+http://live.faucontv.com:8000/live/arbi1/arbi2/2536.ts
+#EXTINF:-1,DE: Skyaction
+http://live.faucontv.com:8000/live/arbi1/arbi2/2539.ts
+#EXTINF:-1,DE: Sky Tnt Series Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2588.ts
+#EXTINF:-1,DE: Sky Tnt Filme Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2589.ts
+#EXTINF:-1,DE: Sky Sport News Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2540.ts
+#EXTINF:-1,DE: Sky Select 8hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2541.ts
+#EXTINF:-1,DE: Sky Select 7 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2542.ts
+#EXTINF:-1,DE: Sky Select 6 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2543.ts
+#EXTINF:-1,DE: Sky Select 5 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2544.ts
+#EXTINF:-1,DE: Sky Select 4 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2545.ts
+#EXTINF:-1,DE: Sky Select 3 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2546.ts
+#EXTINF:-1,DE: Sky Select 2 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2547.ts
+#EXTINF:-1,DE: Sky Select 1 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2548.ts
+#EXTINF:-1,DE: Sky Natgeo Wild Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2590.ts
+#EXTINF:-1,DE: Sky Krimi / Sky
+http://live.faucontv.com:8000/live/arbi1/arbi2/2549.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie / Sky
+http://live.faucontv.com:8000/live/arbi1/arbi2/2552.ts
+#EXTINF:-1,DE: Sky Cinema Hits
+http://live.faucontv.com:8000/live/arbi1/arbi2/2535.ts
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://live.faucontv.com:8000/live/arbi1/arbi2/2592.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://live.faucontv.com:8000/live/arbi1/arbi2/2551.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://live.faucontv.com:8000/live/arbi1/arbi2/2595.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://live.faucontv.com:8000/live/arbi1/arbi2/2581.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2616.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2615.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2614.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2613.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2604.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2603.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2602.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 Hd !!! Weekend Only !!!
+http://live.faucontv.com:8000/live/arbi1/arbi2/2612.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://live.faucontv.com:8000/live/arbi1/arbi2/2538.ts
+#EXTINF:-1,DE: Sixx
+http://live.faucontv.com:8000/live/arbi1/arbi2/2554.ts
+#EXTINF:-1,DE: Servus Tv
+http://live.faucontv.com:8000/live/arbi1/arbi2/2605.ts
+#EXTINF:-1,DE: Sat1 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2586.ts
+#EXTINF:-1,DE: Sat.1 Gold
+http://live.faucontv.com:8000/live/arbi1/arbi2/2601.ts
+#EXTINF:-1,DE: Rtlplus
+http://live.faucontv.com:8000/live/arbi1/arbi2/2600.ts
+#EXTINF:-1,DE: Rtlii Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2560.ts
+#EXTINF:-1,DE: Rtl2/cbc
+http://live.faucontv.com:8000/live/arbi1/arbi2/2558.ts
+#EXTINF:-1,DE: Rtl Television
+http://live.faucontv.com:8000/live/arbi1/arbi2/2559.ts
+#EXTINF:-1,DE: Rtl Passion / Sky
+http://live.faucontv.com:8000/live/arbi1/arbi2/2591.ts
+#EXTINF:-1,DE: Rtl Nitro/cbc
+http://live.faucontv.com:8000/live/arbi1/arbi2/2555.ts
+#EXTINF:-1,DE: Rtl Living
+http://live.faucontv.com:8000/live/arbi1/arbi2/2556.ts
+#EXTINF:-1,DE: Rtl Hd / Cbc
+http://live.faucontv.com:8000/live/arbi1/arbi2/2561.ts
+#EXTINF:-1,DE: Rtl Crime / Sky
+http://live.faucontv.com:8000/live/arbi1/arbi2/2557.ts
+#EXTINF:-1,DE: Romance
+http://live.faucontv.com:8000/live/arbi1/arbi2/2562.ts
+#EXTINF:-1,DE: Prosieben / Prosiebensat.1
+http://live.faucontv.com:8000/live/arbi1/arbi2/2563.ts
+#EXTINF:-1,DE: Pro7 Maxx / Prosiebensat.1
+http://live.faucontv.com:8000/live/arbi1/arbi2/2564.ts
+#EXTINF:-1,DE: Pro7
+http://live.faucontv.com:8000/live/arbi1/arbi2/2565.ts
+#EXTINF:-1,DE: Orf2
+http://live.faucontv.com:8000/live/arbi1/arbi2/2566.ts
+#EXTINF:-1,DE: Orf1
+http://live.faucontv.com:8000/live/arbi1/arbi2/2567.ts
+#EXTINF:-1,DE: Ntv
+http://live.faucontv.com:8000/live/arbi1/arbi2/2611.ts
+#EXTINF:-1,DE: Nick Jr
+http://live.faucontv.com:8000/live/arbi1/arbi2/2568.ts
+#EXTINF:-1,DE: Ndr Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2569.ts
+#EXTINF:-1,DE: National Geographic
+http://live.faucontv.com:8000/live/arbi1/arbi2/2599.ts
+#EXTINF:-1,DE: N 24
+http://live.faucontv.com:8000/live/arbi1/arbi2/2570.ts
+#EXTINF:-1,DE: Mdr Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2610.ts
+#EXTINF:-1,DE: Kika
+http://live.faucontv.com:8000/live/arbi1/arbi2/2571.ts
+#EXTINF:-1,DE: History Channel Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2572.ts
+#EXTINF:-1,DE: Heimat Kanal
+http://live.faucontv.com:8000/live/arbi1/arbi2/2593.ts
+#EXTINF:-1,DE: Fox Serie
+http://live.faucontv.com:8000/live/arbi1/arbi2/2598.ts
+#EXTINF:-1,DE: Fox Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2584.ts
+#EXTINF:-1,DE: Eurosport2
+http://live.faucontv.com:8000/live/arbi1/arbi2/2573.ts
+#EXTINF:-1,DE: Eurosport 2 Xtra
+http://live.faucontv.com:8000/live/arbi1/arbi2/2607.ts
+#EXTINF:-1,DE: Eurosport
+http://live.faucontv.com:8000/live/arbi1/arbi2/2574.ts
+#EXTINF:-1,DE: Disney Xd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2575.ts
+#EXTINF:-1,DE: Disney Junior / Sky
+http://live.faucontv.com:8000/live/arbi1/arbi2/2576.ts
+#EXTINF:-1,DE: Disney Cinemagic / Sky
+http://live.faucontv.com:8000/live/arbi1/arbi2/2594.ts
+#EXTINF:-1,DE: Disney Channel
+http://live.faucontv.com:8000/live/arbi1/arbi2/2583.ts
+#EXTINF:-1,DE: Discovery Channel Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2597.ts
+#EXTINF:-1,DE: Discovery Channel
+http://live.faucontv.com:8000/live/arbi1/arbi2/2606.ts
+#EXTINF:-1,DE: Dazn 2 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2626.ts
+#EXTINF:-1,DE: Dazn 1 Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2625.ts
+#EXTINF:-1,DE: D Max Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2587.ts
+#EXTINF:-1,DE: Axn
+http://live.faucontv.com:8000/live/arbi1/arbi2/2577.ts
+#EXTINF:-1,DE: Arte / Ard
+http://live.faucontv.com:8000/live/arbi1/arbi2/2579.ts
+#EXTINF:-1,DE: Ard Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2596.ts
+#EXTINF:-1,DE: Animal Planet Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2608.ts
+#EXTINF:-1,DE: 3 Sat Hd
+http://live.faucontv.com:8000/live/arbi1/arbi2/2609.ts
+#EXTINF:-1,DE: 13street
+http://live.faucontv.com:8000/live/arbi1/arbi2/2580.ts
